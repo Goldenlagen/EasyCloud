@@ -1,4 +1,5 @@
-﻿Clear-Host;
+﻿
+ Clear-Host;
 
 $Global:DiskPath = "F:\ESTIAM\M1 - ESTIAM\PIM\EasyCloud\VM_HardDrive"
 
