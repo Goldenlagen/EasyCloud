@@ -1,7 +1,7 @@
 ﻿
  Function Watch-VMPerformance {
     $User = 'Administrateur'
-    $Password = 'Naruto301020*'
+    $Password = 'Password'
 
     $SecurePswd = ConvertTo-SecureString -String $Password -AsPlainText -Force
     $Credential = New-Object -TypeName System.Management.Automation.PSCredential -ArgumentList $User, $SecurePswd
